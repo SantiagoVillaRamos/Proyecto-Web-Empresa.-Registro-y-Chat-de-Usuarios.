@@ -1,2 +1,2 @@
 # Web_Project
-Repositorio para almacenar proyectos personales.
+Proyecto Web Empresa - Registro y Chat de Usuarios
